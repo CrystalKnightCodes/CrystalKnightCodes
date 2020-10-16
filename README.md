@@ -9,7 +9,7 @@
 </a>
 <a href="https://medium.com/@crystalknightcodes">
   <img align="left" alt="Crystal's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a><br/>
+</a><br/><br/>
 
 Hi! I'm Crystal.  Thanks for checking out my GitHub!
 
