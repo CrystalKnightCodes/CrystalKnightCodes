@@ -28,9 +28,8 @@ Hi! I'm Crystal.  Thanks for checking out my GitHub!
   <a href="https://github.com/CrystalKnightCodes"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
   
-  ## Current Goals
-  I am looking for work as an iOS Developer.  I can work remotely, but also willing to relocate anywhere in Florida. 
-  It would be nice to find work in the healthcare or education industries, since I have administration experience in both of those fields, but I am open to a variety of opportunities.
+  ## Current Status
+I recently started working at Rekor Systems as an iOS Developer.  
 <br/>
 <br/>
 <a href="https://github.com/CrystalKnightCodes">
